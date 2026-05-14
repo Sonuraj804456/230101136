@@ -25,3 +25,11 @@
 {"timestamp":"2026-05-14T07:29:51.772Z","level":"info","message":"MongoDB connection closed","meta":{}}
 {"timestamp":"2026-05-14T07:29:57.514Z","level":"info","message":"Connected to MongoDB","meta":{"uri":"mongodb+srv://ksonu05104:Sonu123@cluster0.wzzvwre.mongodb.net/notification_service"}}
 {"timestamp":"2026-05-14T07:34:58.582Z","level":"info","message":"MongoDB connection closed","meta":{}}
+{"timestamp":"2026-05-14T07:37:12.966Z","level":"info","message":"Connected to MongoDB","meta":{"uri":"mongodb+srv://ksonu05104:Sonu123@cluster0.wzzvwre.mongodb.net/notification_service"}}
+{"timestamp":"2026-05-14T07:37:21.727Z","level":"info","message":"HTTP GET /scheduler/depots 401 - 125ms","meta":{"stack":"backend","package":"route","payload":{"stack":"backend","level":"info","package":"route","message":"HTTP GET /scheduler/depots 401 - 125ms"}}}
+{"timestamp":"2026-05-14T07:37:21.728Z","level":"info","message":"HTTP request completed","meta":{"method":"GET","path":"/scheduler/depots","status":401,"durationMs":125,"clientIp":"::1","userAgent":"PostmanRuntime/7.54.0"}}
+{"timestamp":"2026-05-14T07:37:27.555Z","level":"info","message":"HTTP GET /depots 404 - 2ms","meta":{"stack":"backend","package":"route","payload":{"stack":"backend","level":"info","package":"route","message":"HTTP GET /depots 404 - 2ms"}}}
+{"timestamp":"2026-05-14T07:37:27.557Z","level":"info","message":"HTTP request completed","meta":{"method":"GET","path":"/depots","status":404,"durationMs":2,"clientIp":"::1","userAgent":"PostmanRuntime/7.54.0"}}
+{"timestamp":"2026-05-14T07:37:40.850Z","level":"info","message":"HTTP GET /scheduler/depots 401 - 58ms","meta":{"stack":"backend","package":"route","payload":{"stack":"backend","level":"info","package":"route","message":"HTTP GET /scheduler/depots 401 - 58ms"}}}
+{"timestamp":"2026-05-14T07:37:40.852Z","level":"info","message":"HTTP request completed","meta":{"method":"GET","path":"/scheduler/depots","status":401,"durationMs":58,"clientIp":"::1","userAgent":"PostmanRuntime/7.54.0"}}
+{"timestamp":"2026-05-14T07:40:35.468Z","level":"info","message":"MongoDB connection closed","meta":{}}
